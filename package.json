@@ -1,6 +1,6 @@
 {
   "name": "accuweather-rest-client",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "A library to get weather stats from accuweather (web)",
   "main": "./dist/index.js",
   "scripts": {
